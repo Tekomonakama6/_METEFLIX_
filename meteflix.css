@@ -1,1 +1,14 @@
-#pppapapapapsap
+body{
+    background-color: rgb(149, 72, 72);
+    
+}
+header{
+    font-size: 100px;
+    text-align: center;
+    color: bisque;
+    border-bottom: 10px solid black;
+}
+#pp{
+    color: blueviolet;
+    text-align: center;
+}
