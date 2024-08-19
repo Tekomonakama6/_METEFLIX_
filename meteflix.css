@@ -1,24 +1,29 @@
-<<<<<<< HEAD
-body{
-    background-color: rgb(140, 158, 158);
-}
-header{
-    font-size: 1223px;
-=======
 body{
     background-color: rgb(149, 72, 72);
-    
+    margin: 0 0 0 0 ;
 }
 header{
     font-size: 100px;
     text-align: center;
     color: bisque;
-    border-bottom: 10px solid black;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    background-color: white;
+    text-decoration:  solid 5px black;
 }
 #pp{
-    color: blueviolet;
+    color: rgb(251, 251, 251);
     text-align: center;
+    font-size: 30px;
+    font-family: cursive;
 }
->>>>>>> d8e438c180e05f1b4c3c022a766171943192495e
+#pip{
+    text-align: center;
+    background-color: rgb(149, 72, 72);
+    margin-left: 400px;
+    
 
+}
 }
